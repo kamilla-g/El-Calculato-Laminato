@@ -14,7 +14,7 @@ A Django-based laminate flooring calculator with interactive layout visualizatio
 ## Technology Stack
 
 - **Backend**: Django, Python
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: HTML, CSS
 - **Database**: SQLite3
 
 ## Installation
